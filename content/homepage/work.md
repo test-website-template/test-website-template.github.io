@@ -1,7 +1,7 @@
 ---
 title: 'Our Research'
 weight: 1
-background: ''
+background: 'images/SASIP_log.png'
 button: 'Our Research'
 buttonLink: 'research'
 ---
