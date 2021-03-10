@@ -4,3 +4,5 @@ heroHeading: 'About'
 heroSubHeading: ''
 heroBackground: 'images/ice-bandeau.png'
 ---
+
+Test blabla
