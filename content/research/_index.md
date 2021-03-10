@@ -1,9 +1,9 @@
 ---
 title: 'Research'
-date: 2018-02-22T17:01:34+07:00
+heroHeading: 'Research'
+heroSubHeading: 'Our research themes are'
+heroBackground: 'https://source.unsplash.com/eluzJSfkNCk/1600x400'
 ---
-
-## Our research themes are
 
 * Modelling sea-ice and its multi-scale dynamics
 
