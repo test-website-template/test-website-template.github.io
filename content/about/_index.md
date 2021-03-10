@@ -2,7 +2,7 @@
 title: 'About'
 layout: 'about'
 heroHeading: 'About '
-heroBackground: 'images/ice-bandeau.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 
 
