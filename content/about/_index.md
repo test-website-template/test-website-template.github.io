@@ -7,8 +7,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 
 <div>
-{{< content-strip-right "/pages/about" "content1" >}}
+{{< content-strip-right "about" "content1" >}}
 </div>
 <div>
-{{< content-strip-center "/pages/about" "content2" >}}
+{{< content-strip-center "/about" "content2" >}}
 </div>
