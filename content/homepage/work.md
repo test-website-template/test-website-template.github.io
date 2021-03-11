@@ -1,10 +1,12 @@
 ---
 title: 'Our Research'
 weight: 1
-background: 'images/SASIP_log_double2.png'
+background: ''
 button: 'Our Research'
 buttonLink: 'research'
 ---
+
+Our research themes are :
 
  - Modelling sea-ice and its multi-scale dynamics
  - Learning about the interplay between sea ice and upper ocean dynamics
