@@ -2,7 +2,7 @@
 title: 'Our Team'
 weight: 2
 background: ''
-button: 'Meet our team'
+button: 'Meet the team'
 buttonLink: 'team'
 ---
 
