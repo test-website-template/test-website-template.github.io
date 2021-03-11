@@ -9,3 +9,5 @@ weight: 5
 ---
 
 Brown University, United States
+
+Polar Oceanography, Sea ice thermodynamics
