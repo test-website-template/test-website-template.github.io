@@ -10,4 +10,4 @@ weight: 3
 
 Nansen Environmental and Remote Sensing Center, Norway
 
-Sea ice physics, Polar oceanography
+Sea ice dynamics and thermodynamics, Polar oceanography
