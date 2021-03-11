@@ -1,6 +1,6 @@
 ---
 title: 'Research'
 heroHeading: 'Research'
-heroSubHeading: 'Our research themes are'
+heroSubHeading: 'Work Packages description'
 heroBackground: 'images/ice-bandeau.png'
 ---
