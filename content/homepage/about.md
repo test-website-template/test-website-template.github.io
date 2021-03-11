@@ -2,8 +2,8 @@
 title: 'Our Team'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'More about us'
 buttonLink: 'team'
 ---
 
-Meet our international team.
+We are an international team of passionate researchers and engineers with expertise in polar sciences and applied mathematics. We like to focus more on sea ice physics, physical oceanography, and climate modelling. 
