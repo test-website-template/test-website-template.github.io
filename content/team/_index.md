@@ -1,7 +1,7 @@
 ---
 title: 'Team'
-heroHeading: ''
-heroSubHeading: 'Meet the team'
+heroHeading: 'Meet the team'
+heroSubHeading: ''
 heroBackground: 'images/ice-bandeau.png'
 ---
 
