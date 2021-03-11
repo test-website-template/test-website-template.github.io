@@ -1,12 +1,23 @@
 .content {
   ul,
   ol {
-    margin-top: 10px;
     margin-bottom: 20px;
-    li {
-      margin-bottom: 5px;
-      margin-left: 20px;
+    ul,
+    ol {
+      margin-bottom: 0;
     }
+  }
+  ul {
+    list-style: disc;
+  }
+  ol {
+    list-style: decimal;
+  }
+  li {
+    margin-bottom: 5px;
+    line-height: 1.56;
+    margin-left: 20px;
+    color: $steel;
   }
   a {
     text-decoration: underline;
