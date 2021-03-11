@@ -5,6 +5,7 @@ draft: false
 image: ""
 jobtitle: "Leader of WP1: Sea Ice Code Development and Optimization"
 promoted: true
+Website: https://www.nersc.no/staff/einar-ólason
 weight: 3
 ---
 
