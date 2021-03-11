@@ -1,7 +1,7 @@
 ---
 title: 'Our Research'
 weight: 1
-background: 'images/ice.jpg'
+background: 'images/ice_small.jpg'
 button: 'More about our Research'
 buttonLink: 'research'
 ---
