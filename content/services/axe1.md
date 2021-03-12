@@ -5,7 +5,8 @@ icon: ''
 featured: true
 draft: false
 heroHeading: ''
-heroSubHeading: 'Modelling sea-ice and its multi-scale dynamics'
+heroSubHeading: ''
 heroBackground: ''
 ---
 
+Modelling sea-ice and its multi-scale dynamics
