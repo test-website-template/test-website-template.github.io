@@ -5,6 +5,8 @@ icon: ''
 featured: true
 draft: false
 heroHeading: ''
-heroSubHeading: 'Improving existing climate models and climate projections with better sea ice representation'
+heroSubHeading: ''
 heroBackground: ''
 ---
+
+Improving existing climate models and climate projections with better sea ice representation
