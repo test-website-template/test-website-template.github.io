@@ -5,6 +5,8 @@ icon: ''
 featured: true
 draft: false
 heroHeading: ''
-heroSubHeading: 'Learning about the interplay between sea ice and upper ocean dynamics'
+heroSubHeading: ''
 heroBackground: ''
 ---
+
+Learning about the interplay between sea ice and upper ocean dynamics
