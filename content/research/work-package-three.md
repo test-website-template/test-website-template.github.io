@@ -1,5 +1,5 @@
 ---
-title: "Work Package 3"
+title: "WP3: ICE–OCEAN INTERACTIONS"
 draft: false
 featured: true
 weight: 3
