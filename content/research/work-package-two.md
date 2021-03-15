@@ -6,7 +6,7 @@ weight: 2
 heroSubHeading: 'SEA ICE RHEOLOGY AND PHYSICAL PARAMETERIZATIONS'
 ---
 
-This work package is concerned with enhancing physical parameterizations within the MEB rheology using high-resolution, explicit simulations of mechanical processes within sea ice. 
+We are concerned with enhancing physical parameterizations within the Maxwell-Elasto-Brittle rheology for sea-ice using high-resolution, explicit simulations of mechanical processes within sea ice. 
 
 Where sea ice is highly fractured and/or ice concentration is low, such as in the MIZ, the continuum assumption cannot be guaranteed to hold as model resolution increases, because the spatial scale will reach that of individual floes. At that scale the mechanical behavior of ice is dominated by collisions and friction between floes. We therefore will perform small-scale simulations with a granular (discrete) model that represents the mechanical behavior of such a densely fractured ice cover. This particular model is a highly valuable tool in that it simulates (i) ice floes of any shape, (ii) collisions between floes in a realistic way; i.e. avoiding interpenetration schemes that incorrectly induce energy dissipation, (iii) explicit fracturing of floes. Its mechanical response (bulk stress-strain relationship) under simple loading conditions can be estimated and related to macro-scale sea ice parameters, in particular the level of damage and ice concentration, and thereby used to derive continuum-scale parameterizations. We devide our work into four parts:
 
@@ -25,3 +25,4 @@ People involved in WP2:
  - Einar Ólason (einar.olason(at)nersc.no)
  - Timothy Williams (timothy.williams(at)nersc.no)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
+ 
