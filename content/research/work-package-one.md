@@ -6,7 +6,7 @@ weight: 1
 heroSubHeading: 'SEA ICE CODE DEVELOPMENT AND OPTIMIZATION'
 ---
 
-Our ambition for WP1 is to develop of the neXtSIM sea ice model to run on massively parallel architectures, making its inclusion in an ESM feasible. To accomplish this we will improve the numerical efficiency of its underlying C++ code and perform exploratory work to enable continued improvements in model efficiency beyond those immediately necessary for integrating it into a climate model. 
+Our ambition is to develop of the neXtSIM sea ice model to run on massively parallel architectures, making its inclusion in an Earth System Model feasible. To accomplish this we will improve the numerical efficiency of its underlying C++ code and perform exploratory work to enable continued improvements in model efficiency beyond those immediately necessary for integrating it into a climate model. 
 
 WP1 is divided into five tasks, two of which address knownshortcomings of the current model version, two which aim to push the numerical performanceof the model further and one concerned with evaluating the physical consistency of the results obtained with the updated model code.
 
