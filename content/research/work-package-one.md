@@ -1,5 +1,5 @@
 ---
-title: "WP1: Sea Ice Code Development And Optimization"
+title: "WP1: Sea Ice Code Development and Optimization"
 draft: false
 featured: true
 weight: 1
