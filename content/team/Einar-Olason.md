@@ -11,4 +11,4 @@ weight: 3
 
 Nansen Environmental and Remote Sensing Center, Norway
 
-Sea-ice modelling, Sea-ice dynamics, Atmosphere-ocean-ice interactions
+Sea-ice modeling and dynamics, Atmosphere-Ocean-Ice interactions
