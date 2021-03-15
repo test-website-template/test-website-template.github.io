@@ -20,3 +20,6 @@ People involved in WP3:
  - Christopher Horvat (christopher_horvat(at)brown.edu)
  - Baylor Fox-Kemper (baylor(at)brown.edu)
  - Timothy Williams (timothy.williams(at)nersc.no)
+ - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
+ - Stéphane Labbé (stephane.labbe(at)sorbonne-universite.fr)
+ - Einar Ólason (einar.olason(at)nersc.no)
