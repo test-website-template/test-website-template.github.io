@@ -1,5 +1,5 @@
 ---
-title: "WP3: ICE–OCEAN INTERACTIONS"
+title: "WP3: Ice–Ocean Interactions"
 draft: false
 featured: true
 weight: 3
