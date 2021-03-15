@@ -14,14 +14,14 @@ WP5's work is devided into two parts:
 
 People involved in WP2:
 
- - Rym Msadek
- - Sophie Valcke
- - Eric Maisonnave
- - Laurent Terray
- - Romain Bourdallé-Badie
+ - Rym Msadek (rym.msadek(at)cerfacs.fr)
+ - Sophie Valcke (sophie.valcke(at)cerfacs.fr)
+ - Eric Maisonnave (eric.maisonnave(at)cerfacs.fr)
+ - Laurent Terray (laurent.terray(at)cerfac.fr)
+ - Romain Bourdallé-Badie (rbourda(at)mercator-ocean.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
- - Chris Horvat (christopher_horvat(at)brown.edu)
- - Alberto Carrassi
+ - Christopher Horvat (christopher_horvat(at)brown.edu)
+ - Alberto Carrassi (n.a.carrassi(at)reading.ac.uk)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
  - Einar Ólason (einar.olason(at)nersc.no)
  - Véronique Danserau (veronique.dansereau(at)univ-grenoble-alpes.fr)
