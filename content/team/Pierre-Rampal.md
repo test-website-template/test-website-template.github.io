@@ -5,7 +5,7 @@ draft: false
 image: "images/team/Pierre_Rempal_color.jpg"
 jobtitle: "Scientific coordinator"
 promoted: true
-website: "http://pp.ige-grenoble.fr/pageperso/rampalp/"
+website: http://pp.ige-grenoble.fr/pageperso/rampalp/
 weight: 1
 ---
 
