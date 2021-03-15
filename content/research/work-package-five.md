@@ -6,8 +6,9 @@ weight: 5
 heroSubHeading: ' CLIMATE IMPLICATIONS'
 ---
  
+WP5 focuses on assessing the climate implications of the state-of-the-art sea ice modelling framework being developed during SASIP
 
-WP5's work is devided into two parts:
+Our work is devided into two parts:
 
  - Building a global fully coupled GCM including the new sea ice modeling system
  - Fully-coupled climate impacts using SASIP efforts
