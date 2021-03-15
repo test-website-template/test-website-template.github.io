@@ -1,5 +1,5 @@
 ---
-title: "WP4: DATA ASSIMILATION AND MACHINE LEARNING"
+title: "WP4: Data Assimilation And Machine Learning"
 draft: false
 featured: true
 weight: 4
@@ -19,6 +19,7 @@ WP4 is a bridge between the other WPs and is structured along four tasks reflect
 
 People involved in WP4:
 
+ - Alberto Carrassi (n.a.carrassi(at)reading.ac.uk)
  - Ali Aydogdu (ali.aydogdu(at)cmcc.it)
  - Laurent Bertino (Laurent.Bertino(at)nersc.no)
  - Marc Bocquet (marc.bocquet(at)enpc.fr)
