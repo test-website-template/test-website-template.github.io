@@ -1,5 +1,5 @@
 ---
-title: "WP2: SEA ICE RHEOLOGY AND PHYSICAL PARAMETERIZATIONS"
+title: "WP2: Sea Ice Rheology And Physical Parameterizations"
 draft: false
 featured: true
 weight: 2
