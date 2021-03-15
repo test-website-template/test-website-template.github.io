@@ -15,8 +15,8 @@ Work Package 3 will connect sea ice model developments to the ocean underneath -
  - Extending wave-driven turbulence parameterizations to regions covered by fragmented sea ice.
  - Developing parameterizations of mixed-layer eddies that relate to the sub-grid-scale floe size distribution.
 
-WP3 participants:
+People involved in WP3:
 
-Christopher Horvat (horvat(at)brown.edu)
-Baylor Fox-Kemper (baylor(at)brown.edu)
-Timothy Williams (timothy.williams(at)nersc.no)
+ - Christopher Horvat (christopher_horvat(at)brown.edu)
+ - Baylor Fox-Kemper (baylor(at)brown.edu)
+ - Timothy Williams (timothy.williams(at)nersc.no)
