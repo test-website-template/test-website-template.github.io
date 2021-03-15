@@ -18,7 +18,7 @@ People involved in WP2:
  - Sophie Valcke (sophie.valcke(at)cerfacs.fr)
  - Eric Maisonnave (eric.maisonnave(at)cerfacs.fr)
  - Laurent Terray (laurent.terray(at)cerfac.fr)
- - Romain Bourdallé-Badie (rbourda(at)mercator-ocean.fr)
+ - Romain Bourdallé-Badie (rbourdal(at)mercator-ocean.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Christopher Horvat (christopher_horvat(at)brown.edu)
  - Alberto Carrassi (n.a.carrassi(at)reading.ac.uk)
