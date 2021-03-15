@@ -2,7 +2,7 @@
 title: "WP5: Climate Implications"
 draft: false
 featured: true
-weight: 2
+weight: 5
 heroSubHeading: ' CLIMATE IMPLICATIONS'
 ---
  
@@ -19,9 +19,9 @@ People involved in WP2:
  - Eric Maisonnave
  - Laurent Terray
  - Romain Bourdallé-Badie
- - Pierre Rampal
- - Chris Horvat
+ - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
+ - Chris Horvat (christopher_horvat(at)brown.edu)
  - Alberto Carrassi
- - Martin Vancoppenolle
- - Einar Ólason
-V. Danserau
+ - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
+ - Einar Ólason (einar.olason(at)nersc.no)
+ - Véronique Danserau (veronique.dansereau(at)univ-grenoble-alpes.fr)
