@@ -20,7 +20,7 @@ People involved in WP2:
  - Véronique Dansereau (veronique.dansereau(at)univ-grenoble-alpes.fr)
  - Jérôme Weiss (jerome.weiss(at)univ-grenoble-alpes.fr)
  - Stéphane Labbé (stephane.labbe(at)sorbonne-universite.fr)
- - Chris Horvat (christopher_horvat(at)brown.edu)
+ - Christopher Horvat (christopher_horvat(at)brown.edu)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Einar Ólason (einar.olason(at)nersc.no)
  - Timothy Williams (timothy.williams(at)nersc.no)
