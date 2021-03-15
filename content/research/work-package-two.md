@@ -6,14 +6,14 @@ weight: 2
 heroSubHeading: 'SEA ICE RHEOLOGY AND PHYSICAL PARAMETERIZATIONS'
 ---
 
-We are concerned with enhancing physical parameterizations within the Maxwell-Elasto-Brittle rheology for sea-ice using high-resolution, explicit simulations of mechanical processes within sea ice. 
+We are concerned with enhancing the mechanical parametrizations of the Maxwell-Elasto-Brittle (MEB) rheology employed in the continuum sea ice model developed within SASIP. 
 
-Where sea ice is highly fractured and/or ice concentration is low, such as in the MIZ, the continuum assumption cannot be guaranteed to hold as model resolution increases, because the spatial scale will reach that of individual floes. At that scale the mechanical behavior of ice is dominated by collisions and friction between floes. We therefore will perform small-scale simulations with a granular (discrete) model that represents the mechanical behavior of such a densely fractured ice cover. This particular model is a highly valuable tool in that it simulates (i) ice floes of any shape, (ii) collisions between floes in a realistic way; i.e. avoiding interpenetration schemes that incorrectly induce energy dissipation, (iii) explicit fracturing of floes. Its mechanical response (bulk stress-strain relationship) under simple loading conditions can be estimated and related to macro-scale sea ice parameters, in particular the level of damage and ice concentration, and thereby used to derive continuum-scale parameterizations. We devide our work into four parts:
+The aim is to develop physically sound parametrizations that can translate the dependence of the mechanical strength of the ice cover at the large scale (10-100 km) on both its granular concentration and level of fracturing at the small scale (< 10 km), thereby enabling the MEB framework to represent adequately the spatial and temporal mechanical transition between a dense, brittle ice pack and a loose, granular aggregate of ice floes reminiscent of the Marginal Ice Zone. The methodology will be based on the use of a state-of-the-art discrete element model that can simulate ice floes of realistic shapes and size distributions as well as their mechanical interactions and resulting fracturing. The work package is divided into four parts that will help determining the key variables/parameters to describe the mechanical state of the ice as well as the physical links between these variables/parameters:
 
- - Granular Model Simulations
- - Derivation of Continuum Physical Parameterizations
- - Implementation and Validation of the New Parametrizations in neXtSIM
- - Simulations of Fast Transitions Between the Dense and Loose Sea Ice Regimes
+ - Discrete model simulations of the evolution of the floe size distribution (FSD) due to fracturing by collision and wave-ice interactions
+ - Derivation of large-scale continuum ice strength parametrizations as a function of the small-scale level of fracturing, granular concentration and FSD evolution
+ - Implementation and validation of the new parametrizations in the Eulerian version of neXtSIM as developed in WP1
+ - Simulations of fast transitions between dense and loose sea ice regimes
 
 People involved in WP2:
 
